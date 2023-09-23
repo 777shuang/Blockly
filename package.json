@@ -1,0 +1,9 @@
+{
+  "name": "lim",
+  "version": "1.0.0",
+  "description": "Visual Programming Environment",
+  "main": "index.js",
+  "repository": "https://github.com/777shuang/Blockly",
+  "author": "777shuang <shuang777@outlook.jp>",
+  "license": "MIT"
+}
